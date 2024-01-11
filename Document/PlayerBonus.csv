@@ -1,0 +1,10 @@
+ID,HP,ST,STR,INT,HEAL,DEF,MEF,CRICHANCE,CRIDAMAGE,character_stat,Fight_IMG,Lobby_IMG,Job
+아이디,체력,스테미너,공격력,지능,치유력,방어력,마법저항력,치명타확률,치명타데미지,기본 캐릭터 스텟,전투이미지,로비이미지,직업
+0,10,0,0,0,0,3,0,0,0,1,Fight/Knight,Lobby/Player,기사
+1,0,0,5,0,0,0,0,15,0,1,Fight/Hero,Lobby/Player,전사
+2,0,0,0,0,0,0,0,15,100,1,Fight/Hero,Lobby/Player,광전사
+3,10,0,0,0,0,0,3,0,0,1,Fight/Knight,Lobby/Player,성기사
+4,0,0,0,5,0,0,3,0,0,2,Fight/Wizard,Lobby/Player,마법사
+5,0,0,5,5,0,0,0,0,0,1,Fight/Hero,Lobby/Player,도적
+6,0,0,0,5,0,3,0,0,0,2,Fight/Wizard,Lobby/Player,마술사
+7,10,0,0,0,5,0,0,0,0,3,Fight/Wizard,Lobby/Player,사제
